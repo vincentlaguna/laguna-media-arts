@@ -1,24 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Photography by Vincent Laguna
 
-Things you may want to cover:
+Rails 6.0.2.1
 
-* Ruby version
+ruby 2.6.3p62 
 
-* System dependencies
+TDD using RSpec 3.9:
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+  - rspec-core 3.9.1
+  - rspec-expectations 3.9.0
+  - rspec-mocks 3.9.1
+  - rspec-support 3.9.2
+  
+Production: PostgreSQL for deployment on Heroku
