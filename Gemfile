@@ -29,7 +29,7 @@ gem 'mini_magick', '~> 4.10', '>= 4.10.1'
 gem 'aws-sdk-s3', '~> 1.61'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
-# Update ActionView seurity patch
+# Update ActionView security patch
 gem "actionview", ">= 6.0.2.2"
 # Use Active Model has_secure_password
 gem 'bcrypt', '~> 3.1', '>= 3.1.11'
