@@ -26,7 +26,7 @@ GIT
 
 GIT
   remote: https://github.com/rspec/rspec-rails.git
-  revision: 84e79259c8978fdff34ea2a327316b638ff00b85
+  revision: e886b55c7f6d311b4bc5a7785a288c0ea5032fb6
   branch: master
   specs:
     rspec-rails (4.0.0.pre)
@@ -40,7 +40,7 @@ GIT
 
 GIT
   remote: https://github.com/rspec/rspec-support.git
-  revision: 9cec8e858228ee1d1395e4e6186ac39c2a83d705
+  revision: 63c03e5e6f0ac858398933f820d37087f57c315a
   branch: master
   specs:
     rspec-support (3.10.0.pre)
@@ -108,8 +108,8 @@ GEM
     autoprefixer-rails (9.7.4)
       execjs
     aws-eventstream (1.0.3)
-    aws-partitions (1.285.0)
-    aws-sdk-core (3.91.1)
+    aws-partitions (1.286.0)
+    aws-sdk-core (3.92.0)
       aws-eventstream (~> 1.0, >= 1.0.2)
       aws-partitions (~> 1, >= 1.239.0)
       aws-sigv4 (~> 1.1)
