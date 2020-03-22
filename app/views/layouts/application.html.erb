@@ -1,15 +1,19 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>LagunaMediaArts</title>
     <%= csrf_meta_tags %>
     <%= csp_meta_tag %>
-
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
     <%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>
-  </head>
-
-  <body>
+  	<meta charset="utf-8">
+  	<meta name="viewport" content="width-device-width">
+  	<meta name="description" content="Photography works of Vincent Laguna">
+  	<meta name="keywords" content="photography, gallery, blog, portfolio">
+  	<meta name="author" content="Vincent Laguna">
+  	<title>Welcome to Laguna Media Arts</title>
+   </head>
+     <body>
     <%= yield %>
   </body>
 </html>
