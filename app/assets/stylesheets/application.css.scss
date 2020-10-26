@@ -122,9 +122,10 @@ body {
 }
 
 .jumbotron {
-  background: url(http://s3.amazonaws.com/codecademy-content/projects/innovation-cloud/jumbotron_bg.jpg) center center;
-  background-size: cover;
-  height: 600px; 
+  //background: url(http://s3.amazonaws.com/codecademy-content/projects/innovation-cloud/jumbotron_bg.jpg) center center;
+  //background-size: cover;
+  background-color: #ffffff;
+  height: 200px; 
 }
 
 .jumbotron .container {
@@ -153,7 +154,7 @@ body {
 }
 
 .footer p { 
-  color: #fff;
+  color: #a2a3a7;
   font-size: 14px;  
   height: 80px; 
   line-height: 80px;
