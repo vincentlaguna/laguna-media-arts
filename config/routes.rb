@@ -1,7 +1,8 @@
 Rails.application.routes.draw do
   
   root 'pages#home'
-  get 'pages/gallery' => 'pages#gallery' 
+  get 'pages/photo_gallery' => 'pages#photo_gallery'
+  get 'pages/art_gallery' => 'pages#art_gallery'
   get 'pages/blog' => 'pages#blog'
   get 'pages/about' => 'pages#about'
   get 'pages/contact' => 'pages#contact'

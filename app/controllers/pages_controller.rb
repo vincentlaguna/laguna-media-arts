@@ -1,8 +1,12 @@
 class PagesController < ApplicationController
+  
   def home
   end
 
-  def gallery
+  def photo_gallery
+  end
+  
+  def art_gallery
   end
 
   def blog
