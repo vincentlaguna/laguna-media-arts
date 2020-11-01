@@ -26,7 +26,14 @@
 }
 
 .background-image_photo_gallery{
-	background: asset-url('Bixby_cover_1_vert.JPG') no-repeat center center;
+	background: asset-url('bixby_cover_1_vert.JPG') no-repeat center center;
+	background-size: cover;
+  	height: 800px;
+  	text-align: center; 
+}
+
+.background-image_art_gallery{
+	background: asset-url('carmel_cover.JPG') no-repeat center center;
 	background-size: cover;
   	height: 800px;
   	text-align: center; 
