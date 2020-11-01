@@ -1,6 +1,6 @@
 # README
 
-Photography by Vincent Laguna
+Photography and Artwork by Katie and Vincent Laguna (A Joint Venture)
 
 Rails 6.0.2.1
 
@@ -14,3 +14,10 @@ TDD using RSpec 3.9:
   - rspec-support 3.9.2
   
 Production: PostgreSQL for deployment on Heroku
+
+November 1, 2020 Update:
+
+- Holding off on TDD using RSpec
+- Adding gallery implementation soon
+- Modified site for our joint venture in our creative works
+- Undergoing testing, production branch deployed with latest updates
