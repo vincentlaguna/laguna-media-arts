@@ -19,7 +19,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 
 .background-image{
-	background: asset-url('1.JPG') no-repeat center center;
+	background: asset-url('big_sur_cover.JPG') no-repeat center center;
+	background-size: cover;
+  	height: 800px;
+  	text-align: center; 
+}
+
+.background-image_photo_gallery{
+	background: asset-url('Bixby_cover_1_vert.JPG') no-repeat center center;
 	background-size: cover;
   	height: 800px;
   	text-align: center; 
