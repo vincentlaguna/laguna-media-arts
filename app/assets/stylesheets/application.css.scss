@@ -42,15 +42,19 @@
 .background-image_about{
 	background: asset-url('bixby_cover_2.JPG') no-repeat center center;
 	background-size: cover;
-  	height: 1000px;
-  	text-align: center; 
+  height: 1000px;
+  text-align: center; 
 }
 
 .background-image_contact{
 	background: asset-url('carmel_cover_2.JPG') no-repeat center center;
 	background-size: cover;
-  	height: 1000px;
-  	text-align: center; 
+  height: 1000px;
+  text-align: center; 
+}
+
+.container{
+  //text-align: left;
 }
 
 /*
