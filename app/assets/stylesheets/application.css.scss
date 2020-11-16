@@ -18,54 +18,88 @@
 @import "bootstrap";
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 
-.background-image{
+.background-image
+{
 	background: asset-url('big_sur_cover.jpg') no-repeat center center;
 	background-size: cover;
   height: 1000px;
   text-align: center; 
 }
 
-.background-image_photo_gallery{
+.background-image_photo_gallery
+{
 	background: asset-url('bixby_cover_1_vert.jpg') no-repeat center center;
 	background-size: cover;
   height: cover;
   text-align: center; 
 }
 
-.background-image_art_gallery{
+.background-image_art_gallery
+{
 	background: asset-url('carmel_cover.jpg') no-repeat center center;
 	background-size: cover;
   height: cover;
   text-align: center; 
 }
 
-.background-image_about{
+.background-image_about
+{
 	background: asset-url('bixby_cover_2.jpg') no-repeat center center;
 	background-size: cover;
   height: 1000px;
   text-align: center; 
 }
 
-.background-image_contact{
+.background-image_contact
+{
 	background: asset-url('carmel_cover_2.jpg') no-repeat center center;
 	background-size: cover;
   height: 1000px;
   text-align: center; 
 }
 
-.container{
-  //text-align: left;
-}
-
-.photo-img{
+.photo-img
+{
   height: 500px;
 }
 
-.headline{
-  text-align: center;
-}
-
-body {
+body
+{
   font-family: 'Roboto', sans-serif;
   font-weight: 100;
 }
+
+#gallery img
+{
+  width: 100%;
+}
+
+h1, h2
+{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.col-md-3
+{
+  padding: 0;
+  margin-bottom: -100px;
+}
+
+.col-md-2
+{
+  margin-top: 100px;
+}
+
+.footer
+{
+  padding: 0 0 1px 0;
+  margin-bottom: 0px;
+  backgound: #333;
+}
+
+/*
+
+
+
+*/
