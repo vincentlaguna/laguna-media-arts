@@ -22,7 +22,7 @@ gem 'turbolinks', '~> 5'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.7'
 # nokogiri
-gem 'nokogiri', '~> 1.10', '>= 1.10.8'
+gem 'nokogiri', '~> 1.13'
 # Manipulate images with minimal use of memory via ImageMagick / GraphicsMagick
 gem 'mini_magick', '~> 4.10', '>= 4.10.1'
 # aws s3
